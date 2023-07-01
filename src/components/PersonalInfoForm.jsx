@@ -13,7 +13,6 @@ import {
 import { personalInputProps } from "./../constant/inputs";
 
 const PersonalInfoForm = ({ onBlur, value, onChange, error, touched }) => {
-  console.log(error);
   return (
     <Container sx={{ marginTop: 4 }}>
       <Grid container spacing={2}>

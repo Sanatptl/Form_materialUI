@@ -5,8 +5,6 @@ import { Form } from "./components";
 const useStyles = makeStyles((theme) => ({
   container: {
     padding: theme.spacing(3),
-    // margin: theme.spacing(2),
-    // textAlign: "center",
   },
 }));
 
